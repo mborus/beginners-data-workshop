@@ -1,0 +1,11 @@
+black
+jupyter-contrib-nbextensions
+jupyterlab
+matplotlib
+pandas
+scikit-learn
+seaborn
+tqdm
+joblib
+ipykernel
+jupyter-black

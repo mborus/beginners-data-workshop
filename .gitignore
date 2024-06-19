@@ -16,3 +16,6 @@ data/Penguins/my_penguins.csv
 .DS_Store
 
 env_workshop/
+
+venv
+beta_venv
