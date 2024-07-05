@@ -1,1 +1,2 @@
-len("Sandrine") > 8
+name="Sandrine"
+len(name) > 8
